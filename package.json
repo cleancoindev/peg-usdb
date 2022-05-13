@@ -4,9 +4,9 @@
   "dependencies": {
     "@drizzle-utils/core": "^0.3.1-alpha.0",
     "@drizzle-utils/get-web3": "^0.2.2-alpha.0",
-    "ganache-cli": "^6.4.4",
+    "ganache-cli": "^6.5.1",
     "mocha": "^5.2.0",
-    "solc": "^0.4.23",
+    "solc": "^0.5.11",
     "stringstream": "0.0.6",
     "truffle-hdwallet-provider": "^1.0.6",
     "web3": "1.0.0-beta.33"
