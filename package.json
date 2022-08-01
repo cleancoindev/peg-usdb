@@ -9,7 +9,7 @@
     "solc": "^0.4.23",
     "stringstream": "0.0.6",
     "truffle-hdwallet-provider": "^1.0.6",
-    "web3": "1.0.0-beta.33"
+    "web3": "1.7.5"
   },
   "scripts": {
     "compile": "rm -rf solcbuild && rm -rf abi && node compile.js",
