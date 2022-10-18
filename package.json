@@ -5,7 +5,7 @@
     "@drizzle-utils/core": "^0.3.1-alpha.0",
     "@drizzle-utils/get-web3": "^0.2.2-alpha.0",
     "ganache-cli": "^6.4.4",
-    "mocha": "^5.2.0",
+    "mocha": "^9.2.2",
     "solc": "^0.4.23",
     "stringstream": "0.0.6",
     "truffle-hdwallet-provider": "^1.0.6",
